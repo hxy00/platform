@@ -1,0 +1,16 @@
+com\platform\dao\SysOssDao.class
+com\platform\aop\SysLogAspect.class
+com\platform\controller\SysOssController.class
+com\platform\task\TestTask.class
+com\platform\controller\SysLogController.class
+com\platform\controller\SysMacroController.class
+com\platform\controller\SysPageController.class
+com\platform\controller\SysRegionController.class
+com\platform\entity\SysOssEntity.class
+com\platform\controller\SysConfigController.class
+com\platform\controller\SysSmsLogController.class
+com\platform\controller\SysDeptController.class
+com\platform\service\impl\SysOssServiceImpl.class
+com\platform\service\SysOssService.class
+com\platform\aop\RedisCacheAspect.class
+com\platform\aop\DataFilterAspect.class
