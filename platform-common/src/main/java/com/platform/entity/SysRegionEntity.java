@@ -1,7 +1,7 @@
 package com.platform.entity;
 
 /**
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-11-04 11:19:31
  */

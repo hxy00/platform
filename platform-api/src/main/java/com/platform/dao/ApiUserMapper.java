@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 用户
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  * @date 2017-03-23 15:22:06

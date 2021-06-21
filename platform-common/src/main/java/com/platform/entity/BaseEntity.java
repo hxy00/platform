@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 对业务实体做公共属性
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017年11月16日 下午10:43:36
  */

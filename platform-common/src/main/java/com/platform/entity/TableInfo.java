@@ -3,7 +3,7 @@ package com.platform.entity;
 /**
  * 动态表信息
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017年11月16日 下午10:43:36
  */

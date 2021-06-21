@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  * <p>
  * testTask为spring bean的名称
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  * @date 2016年11月30日 下午1:34:24

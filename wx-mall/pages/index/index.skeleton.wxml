@@ -1,0 +1,170 @@
+<!--
+此文件为开发者工具生成，生成时间: 2021/6/20 上午12:27:59 
+使用方法：
+在 D:\workspace\idea\platform\wx-mall\pages\index\index.wxml 引入模板
+
+```
+<import src="index.skeleton.wxml"/>
+<template is="skeleton" wx-if="{{loading}}" />
+```
+
+在 D:\workspace\idea\platform\wx-mall\pages\index\index.wxss 中引入样式
+```
+@import "./index.skeleton.wxss";
+```
+
+更多详细信息可以参考文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/skeleton.html
+-->
+<template name="skeleton">
+  <view class="sk-container">
+    <view class="container">
+      <swiper autoplay="false" class="banner" duration="1000" indicator-dots="true" interval="3000" current="0">
+        <swiper-item style="position: absolute; width: 100%; height: 100%; transform: translate(0%, 0px) translateZ(0px);">
+          <navigator>
+            <image background-size="cover" class="sk-image"></image>
+          </navigator>
+        </swiper-item>
+      </swiper>
+      <view class="a-section a-topic">
+        <view class="m-menu">
+          <navigator class="item">
+            <image background-size="cover" class="sk-image"></image>
+            <text class="sk-transparent sk-text-0-0000-103 sk-text" style="background-position-x: 50%;">居家</text>
+          </navigator>
+          <navigator class="item">
+            <image background-size="cover" class="sk-image"></image>
+            <text class="sk-transparent sk-text-0-0000-59 sk-text" style="background-position-x: 50%;">餐厨</text>
+          </navigator>
+          <navigator class="item">
+            <image background-size="cover" class="sk-image"></image>
+            <text class="sk-transparent sk-text-0-0000-837 sk-text" style="background-position-x: 50%;">配件</text>
+          </navigator>
+          <navigator class="item">
+            <image background-size="cover" class="sk-image"></image>
+            <text class="sk-transparent sk-text-0-0000-238 sk-text" style="background-position-x: 50%;">服装</text>
+          </navigator>
+          <navigator class="item">
+            <image background-size="cover" class="sk-image"></image>
+            <text class="sk-transparent sk-text-0-0000-581 sk-text" style="background-position-x: 50%;">志趣</text>
+          </navigator>
+        </view>
+      </view>
+      <view class="a-section a-topic">
+        <view class="a-section a-brand">
+          <view class="h">
+            <navigator>
+              <text class="txt sk-transparent sk-text-3-3333-681 sk-text">品牌制造商直供</text>
+            </navigator>
+          </view>
+          <view class="b">
+            <view class="item item-1" style="border: none;">
+              <navigator class="true">
+                <view class="wrap">
+                  <image class="img sk-image" mode="aspectFill"></image>
+                  <view class="mt">
+                    <text class="brand sk-transparent sk-text-14-2857-950 sk-text">CK制造商</text>
+                    <text class="price sk-transparent sk-opacity">39</text>
+                    <text class="unit sk-transparent sk-text-14-2857-114 sk-text">元起</text>
+                  </view>
+                </view>
+              </navigator>
+            </view>
+            <view class="item item-1" style="border: none;">
+              <navigator>
+                <view class="wrap">
+                  <image class="img sk-image" mode="aspectFill"></image>
+                  <view class="mt">
+                    <text class="brand sk-transparent sk-text-14-2857-230 sk-text">MUJI制造商</text>
+                    <text class="price sk-transparent sk-text-14-2857-809 sk-text">12.9</text>
+                    <text class="unit sk-transparent sk-text-14-2857-978 sk-text">元起</text>
+                  </view>
+                </view>
+              </navigator>
+            </view>
+            <view class="item item-1" style="border: none;">
+              <navigator>
+                <view class="wrap">
+                  <image class="img sk-image" mode="aspectFill"></image>
+                  <view class="mt">
+                    <text class="brand sk-transparent sk-text-14-2857-894 sk-text">WMF制造商</text>
+                    <text class="price sk-transparent sk-opacity">9.9</text>
+                    <text class="unit sk-transparent sk-text-14-2857-882 sk-text">元起</text>
+                  </view>
+                </view>
+              </navigator>
+            </view>
+            <view class="item item-1" style="border: none;">
+              <navigator>
+                <view class="wrap">
+                  <image class="img sk-image" mode="aspectFill"></image>
+                  <view class="mt">
+                    <text class="brand sk-transparent sk-text-14-2857-85 sk-text">OBH制造商</text>
+                    <text class="price sk-transparent sk-opacity">39</text>
+                    <text class="unit sk-transparent sk-text-14-2857-410 sk-text">元起</text>
+                  </view>
+                </view>
+              </navigator>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="a-section a-topic">
+        <view class="h">
+          <view>
+            <navigator open-type="switchTab">
+              <text class="txt sk-transparent sk-text-3-3333-317 sk-text">专题精选</text>
+            </navigator>
+          </view>
+        </view>
+        <view class="b">
+          <scroll-view class="list" scroll-x="true">
+            <view class="item">
+              <navigator>
+                <image background-size="cover" class="img sk-image"></image>
+                <view class="np">
+                  <text class="name sk-transparent sk-text-14-2857-104 sk-text">关爱他成长的每一个足迹</text>
+                  <text class="price sk-transparent sk-text-14-2857-494 sk-text">￥0元起</text>
+                </view>
+                <text class="desc sk-transparent sk-text-14-2857-932 sk-text">专业运动品牌同厂，毛毛虫鞋买二送一</text>
+              </navigator>
+            </view>
+            <view class="item">
+              <navigator>
+                <image background-size="cover" class="img sk-image"></image>
+                <view class="np">
+                  <text class="name sk-transparent sk-text-14-2857-238 sk-text">一次解决5个节日送礼难题</text>
+                </view>
+                <text class="desc sk-transparent sk-text-14-2857-609 sk-text">这些就是他们想要的礼物清单</text>
+              </navigator>
+            </view>
+          </scroll-view>
+        </view>
+      </view>
+      <view class="a-section a-new">
+        <view class="h">
+          <view>
+            <navigator>
+              <text class="txt sk-transparent sk-text-3-3333-958 sk-text">周一周四 · 新品首发</text>
+            </navigator>
+          </view>
+        </view>
+        <view class="b">
+          <view class="item">
+            <navigator>
+              <image background-size="cover" class="img sk-image"></image>
+              <text class="name sk-transparent sk-text-14-2857-904 sk-text" style="background-position-x: 50%;">母亲节礼物-舒适安睡组合</text>
+              <text class="price sk-transparent sk-text-0-0000-106 sk-text" style="background-position-x: 50%;">￥2598</text>
+            </navigator>
+          </view>
+          <view class="item">
+            <navigator>
+              <image background-size="cover" class="img sk-image"></image>
+              <text class="name sk-transparent sk-text-14-2857-871 sk-text" style="background-position-x: 50%;">Carat钻石 不粘厨具组合</text>
+              <text class="price sk-transparent sk-text-0-0000-643 sk-text" style="background-position-x: 50%;">￥459</text>
+            </navigator>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

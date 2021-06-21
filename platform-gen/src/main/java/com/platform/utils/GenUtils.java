@@ -22,7 +22,7 @@ import java.util.zip.ZipOutputStream;
 /**
  * 代码生成器   工具类
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017年1月3日 下午6:35:28
  */

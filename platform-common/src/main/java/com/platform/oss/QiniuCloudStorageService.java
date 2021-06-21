@@ -15,7 +15,7 @@ import java.io.InputStream;
 /**
  * 七牛云存储
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-03-25 15:41
  */

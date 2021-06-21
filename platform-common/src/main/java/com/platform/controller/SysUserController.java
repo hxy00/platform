@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * 系统用户
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2016年10月31日 上午10:40:10
  */

@@ -20,7 +20,7 @@ import com.platform.utils.R;
 /**
  * Controller
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-08-20 14:10:08
  */

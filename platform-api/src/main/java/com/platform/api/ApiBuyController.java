@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  */

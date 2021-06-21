@@ -2,7 +2,7 @@ package com.platform.entity;
 
 
 /**
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017年6月18日 上午9:26:39
  */

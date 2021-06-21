@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 系统配置信息
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2016年12月4日 下午6:49:01
  */

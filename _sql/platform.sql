@@ -41,6 +41,9 @@ INSERT INTO `nideshop_ad` VALUES ('1', '1', '1', '合作 谁是你的菜', '', '
 INSERT INTO `nideshop_ad` VALUES ('2', '1', '1', '活动 美食节', '/pages/activity/activity?referrer=1&sourceKey=abcdefg', 'https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/bff2e49136fcef1fd829f5036e07f116.jpg', '活动 美食节', '2017-09-07 21:48:34', '1');
 INSERT INTO `nideshop_ad` VALUES ('3', '1', '1', '新用户注册', '/pages/auth/newuser/newuser', 'https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/xinhuiyuan.jpg', '新用户注册', '2017-09-07 21:48:34', '1');
 
+
+
+
 -- ----------------------------
 -- Table structure for `nideshop_address`
 -- ----------------------------

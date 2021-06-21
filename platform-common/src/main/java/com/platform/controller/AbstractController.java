@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Controller公共组件
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2016年11月9日 下午9:42:26
  */

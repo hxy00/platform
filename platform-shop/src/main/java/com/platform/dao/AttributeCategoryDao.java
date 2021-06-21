@@ -5,7 +5,7 @@ import com.platform.entity.AttributeCategoryEntity;
 /**
  * Dao
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-08-17 16:13:27
  */

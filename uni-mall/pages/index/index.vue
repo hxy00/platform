@@ -197,7 +197,7 @@
 		},
 		onShareAppMessage: function() {
 			return {
-				title: '微同开源商城',
+				title: '千与千寻开源商城',
 				path: '/pages/index/index'
 			}
 		},

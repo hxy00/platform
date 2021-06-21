@@ -9,7 +9,7 @@ import java.util.Date;
  * 发送短信日志
  * 表名 sys_sms_log
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-12-16 23:38:05
  */

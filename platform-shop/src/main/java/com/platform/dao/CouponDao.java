@@ -5,7 +5,7 @@ import com.platform.entity.CouponEntity;
 /**
  * Dao
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-08-19 12:53:26
  */

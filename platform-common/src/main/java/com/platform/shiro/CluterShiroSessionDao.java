@@ -13,7 +13,7 @@ import java.util.Set;
 /**
  * 集群session管理
  *
- * @author lipengjun
+ * @author admin
  * @date 2018年07月31日 上午14:50
  */
 public class CluterShiroSessionDao extends AbstractSessionDAO {

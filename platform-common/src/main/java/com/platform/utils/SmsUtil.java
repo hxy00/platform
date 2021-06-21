@@ -8,7 +8,7 @@ import com.github.qcloudsms.SmsSingleSenderResult;
 /**
  * https://github.com/qcloudsms/qcloudsms_java/blob/master/src/test/java/QcloudSmsTest.java
  *
- * @author lipengjun
+ * @author admin
  * @date 2017年11月18日 下午13:13:23
  */
 public class SmsUtil {
