@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * API测试接口
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  * @date 2017-03-23 15:47

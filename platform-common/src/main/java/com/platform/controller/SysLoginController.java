@@ -24,7 +24,7 @@ import java.io.IOException;
 /**
  * 登录相关
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2016年11月10日 下午1:15:31
  */

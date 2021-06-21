@@ -10,7 +10,7 @@ import java.io.InputStream;
 /**
  * 阿里云存储
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-03-26 16:22
  */

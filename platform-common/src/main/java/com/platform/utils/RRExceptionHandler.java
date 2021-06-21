@@ -12,7 +12,7 @@ import java.util.HashMap;
 /**
  * 异常处理器
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2016年10月27日 下午10:16:19
  */

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 分页工具类
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  * @date 2016年11月4日 下午12:59:00

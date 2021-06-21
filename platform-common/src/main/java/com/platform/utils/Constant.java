@@ -3,7 +3,7 @@ package com.platform.utils;
 /**
  * 常量
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2016年11月15日 下午1:23:52
  */
@@ -59,7 +59,7 @@ public class Constant {
     /**
      * 菜单类型
      *
-     * @author lipengjun
+     * @author admin
      * @email 939961241@qq.com
      * @date 2016年11月15日 下午1:24:29
      */
@@ -91,7 +91,7 @@ public class Constant {
     /**
      * 定时任务状态
      *
-     * @author lipengjun
+     * @author admin
      * @email 939961241@qq.com
      * @date 2016年12月3日 上午12:07:22
      */

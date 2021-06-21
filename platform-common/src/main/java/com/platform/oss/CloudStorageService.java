@@ -11,7 +11,7 @@ import java.util.UUID;
 /**
  * 云存储(支持七牛、阿里云、腾讯云、又拍云)
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-03-25 14:58
  */

@@ -3,7 +3,7 @@ package com.platform.validator.group;
 /**
  * 腾讯云
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-03-28 13:51
  */

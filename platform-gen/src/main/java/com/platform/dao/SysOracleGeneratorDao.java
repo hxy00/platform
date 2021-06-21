@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * oracle代码生成器
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017年07月23日 上午13:06:04
  */

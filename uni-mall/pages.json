@@ -2,7 +2,7 @@
 	"pages": [{
 		"path": "pages/index/index",
 		"style": {
-			"navigationBarTitleText": "微同商城",
+			"navigationBarTitleText": "千与千寻商城",
 			"enablePullDownRefresh": true,
 			"onReachBottomDistance": 50
 		}
@@ -339,7 +339,7 @@
 		}
 	},
 	"globalStyle": {
-		"navigationBarTitleText": "微同商城",
+		"navigationBarTitleText": "千与千寻商城",
 		"backgroundTextStyle": "dark",
 		"navigationBarBackgroundColor": "#fff",
 		"navigationBarTextStyle": "black",

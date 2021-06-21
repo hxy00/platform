@@ -38,7 +38,7 @@ import java.util.Map;
 /**
  * API登录授权
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  * @date 2017-03-23 15:31

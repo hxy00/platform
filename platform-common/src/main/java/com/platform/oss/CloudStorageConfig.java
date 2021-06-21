@@ -14,7 +14,7 @@ import java.io.Serializable;
 /**
  * 云存储配置信息
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @date 2017-03-25 16:12
  */

@@ -5,7 +5,7 @@ import com.platform.entity.HelpTypeVo;
 /**
  * Dao
  *
- * @author lipengjun
+ * @author admin
  * @email 939961241@qq.com
  * @gitee https://gitee.com/fuyang_lipengjun/platform
  * @date 2017-12-02 10:04:20
